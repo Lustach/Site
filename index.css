@@ -1,0 +1,140 @@
+
+/* .header
+{
+width:10%;
+height:10%;
+} */
+/* .....................
+.headerdiv
+{
+    width: 18%;
+    height:2%;
+    position: absolute;
+    top: 10px;
+    bottom: 1000px;
+    right: 40px;
+    border: 1px solid rgb(23, 23, 175);
+    text-align: center;
+    color: rgb(47, 47, 180);
+}
+.uhcontent
+{
+    height: 177.297px;
+    width: 900px;
+    position: absolute;
+    bottom: 783px;
+    left: 250px;
+    border: 3px solid rgb(64, 64, 145);
+    text-align: center;
+
+}
+.img2
+{
+    width:46%;
+}
+.avpic
+{
+
+    position: absolute;
+    bottom:745px;
+    left: 1170px;
+}
+.titleImg
+{
+   width: 10%;
+   border: 1pc solid rgb(13, 13, 78);
+}
+.Welcome
+{
+    text-align: center;
+    color: rgb(101, 30, 168);
+}
+.News
+{
+    position: absolute;
+    left:15%;
+    height: 700px;
+    width: 800px;
+
+    border: 10px solid blue;
+}
+..................... */
+/* .Block
+{
+    background-color: rgb(168, 76, 230);
+    text-align:center;
+    color: rgb(169, 227, 231);
+    height: 800px;
+    width: 66%;
+    float: left;
+    margin: 0px 400px 100px;
+    border:5px dashed rgb(11, 199, 199);
+
+}
+.menu
+{
+    background-color: rgb(135, 190, 188);
+    height:300px;
+    width: 20%;
+    color: black;
+}
+.Connect
+{
+    text-align:center;
+    color: rgb(0, 10, 10);
+}
+body
+{
+    background: url(Images/Background.jpg);
+    background-size: cover;
+} */
+
+/* .cl1
+{
+    height: 600px;
+    background-color: blanchedalmond;
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+.menu
+{
+
+    width: 6000px;
+    margin-left: 80%;
+
+    background-color: rgba(180, 81, 27, 0.185);
+    position: fixed;
+    z-index: 2;
+    border-top: 2px dashed red;
+    border-bottom: 2px dashed green;
+} */
+*
+{
+    box-sizing: border-box;
+}
+.location
+{
+    height:5%;
+    width:100%;
+    background-color: rgb(76, 212, 167);
+    font-size: 15px;
+    display: inline-block;
+    margin-right: -4px;
+    text-decoration-color: aquamarine;
+}
+.header
+{   height: 50px;
+    padding: 13px;
+    background-color: rgb(228, 66, 2);
+    text-align: center;
+}
+span
+{
+    background-color: rgb(76, 212, 167);
+}
+.Info
+{
+
+}
