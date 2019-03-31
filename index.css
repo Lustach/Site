@@ -116,25 +116,124 @@ body
 }
 .location
 {
-    height:5%;
+    padding-top: 5px;
+
+    height:30px;
     width:100%;
-    background-color: rgb(76, 212, 167);
+    background-color: azure;
     font-size: 15px;
     display: inline-block;
     margin-right: -4px;
-    text-decoration-color: aquamarine;
+    text-decoration-color: rgb(46, 21, 160);
 }
 .header
-{   height: 50px;
-    padding: 13px;
-    background-color: rgb(228, 66, 2);
+{   width: 99.14444%;
+    height: 50px;
+    background-color: rgb(252, 106, 48);
     text-align: center;
+    position: fixed;
+    z-index: 1;
+}
+.basket
+{   
+    margin-left:85%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    width: 200px;
+    height: 50px;
+    background-color: azure;
+    z-index: 2;
+    left:right;
+    border: 1px solid orange;
+}
+.comparison
+{
+    border: 1px solid orange;
+    width: 192px;
+    height: 50px;
+    background-color: azure;
+    z-index: 2;
+    margin-top: -50px;
+    margin-left: 75%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.phonenumber
+{  
+    margin-top: -15px;
+    width: 200px;
+    height: 50px;
+    margin-left: 1000px;
+}
+.registr
+{
+    margin-top: -35px;
+    margin-left: 75%;
+}
+.signin
+{
+    margin-top: -50px;
+    margin-left: 70%;
 }
 span
 {
     background-color: rgb(76, 212, 167);
 }
+.img
+{   
+    width: 150px;
+    height: 50px;
+    position:fixed;
+    z-index: 50;
+}
+.main
+{
+    height: 1000px;
+
+}
+.navigation
+{
+    padding-left: 250px;
+    padding-top: 50px;
+    background-color: white;
+}
+.navblock
+{
+    width: 300px;
+    height: 40px;
+    border-left: 2px solid orangered;
+    border-top: 1px solid rgba(70, 61, 61, 0.068);
+    border-right: 1px solid rgba(70, 61, 61, 0.068);
+    border-bottom: 1px solid rgba(70, 61, 61, 0.068);
+    background-color: azure;
+    padding: 10px;
+}
+.News
+{
+    height: 100px;
+    width: 50%;
+    background-color: rgb(241, 228, 192);
+    margin-left: 30%;
+    margin-top: -18%;
+    
+}
+.actionbanner
+{
+    margin-top: -350px;
+    margin-left: 570px;
+}
+.imgnew
+{
+    width: 68%;
+    height: 220px;
+}
+.spanl
+{
+    margin-top:30px;
+    background-color: azure;
+    margin-left:570px;
+}
 .Info
 {
-
+    
 }
