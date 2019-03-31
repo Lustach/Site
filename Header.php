@@ -16,7 +16,7 @@
     <div class="registr"><a href="Index.php">Регистрация</a></div> -->
         <div class="phonenumber">Наш телефон: 099-091-02-60</div>
         <div class=signin>
-            <a href="Index.php">Войти</a>
+            <a href="Signin.php">Войти</a>
             <a href="Index.php">Регистрация</a>
         </div>
     </div>

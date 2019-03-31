@@ -22,7 +22,7 @@
         <h1>Лучшие предложения</h1>
     </div>
     <div class="popular">
-        Ghtljk;tDSFADF
+
     </div>
     </body>
 <? require('Footer.php')?>
